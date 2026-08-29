@@ -157,7 +157,7 @@ The analysis helps to:
 
 ## 1. KPIs Dashboard
 
-![KPIs Dashboard](Screenshots/dashboard-1.png)
+![KPIs Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Nothwind%20Traders-KPIs.png)
 
 ---
 
