@@ -44,7 +44,6 @@ It gives a quick view of important business metrics and helps users understand t
 * Order-related metrics
 * Performance summary
 
----
 
 ## 2️⃣ Customer Analysis Dashboard
 
@@ -60,7 +59,6 @@ It helps identify important customers and understand their contribution to the c
 * Customer contribution
 * Customer purchasing patterns
 
----
 
 ## 3️⃣ Sales Analysis Dashboard
 
@@ -76,7 +74,6 @@ It helps understand sales trends and provides a detailed view of how sales are p
 * Sales contribution
 * Overall sales patterns
 
----
 
 ## 4️⃣ Product Analysis Dashboard
 
@@ -92,7 +89,6 @@ It helps identify products that contribute significantly to the company's busine
 * Product comparison
 * Product contribution
 
----
 
 ## 5️⃣ Employee Performance Analysis Dashboard
 
@@ -108,7 +104,6 @@ It helps compare employee contributions and understand sales performance associa
 * Sales contribution
 * Top-performing employees
 
----
 
 # 🗂️ Dataset Information
 
@@ -122,7 +117,6 @@ The Orders dataset contains information related to customer orders and order-lev
 
 [northwind_orders.csv](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/northwind_orders%20-%20northwind_orders.csv)
 
----
 
 ## 2. Order Details Dataset
 
@@ -133,7 +127,6 @@ The Order Details dataset contains detailed information about the individual pro
 [northwind_order_details.csv](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/northwind_order_details%20-%20northwind_order_details.csv)
 
 
----
 
 # 📈 Key Insights
 
@@ -149,7 +142,6 @@ The analysis helps to:
 * Identify important patterns in business data.
 * Support data-driven business decision-making.
 
----
 
 # 👨‍💻 Author
 
@@ -157,7 +149,6 @@ The analysis helps to:
 
 MBA – Finance
 
----
 
 # 🖼️ Dashboard Screenshots
 
@@ -165,31 +156,26 @@ MBA – Finance
 
 ![KPIs Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Nothwind%20Traders-KPIs.png)
 
----
 
 ## 2. Customer Analysis Dashboard
 
 ![Sales Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Customer%20Analysis.png)
 
----
 
 ## 3. Sales Analysis Dashboard
 
 ![Product Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Sales%20Analysis.png)
 
----
 
 ## 4. Product Analysis Dashboard
 
 ![Customer Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Product%20Analysis.png)
 
----
 
 ## 5. Employee Performance Analysis Dashboard
 
 ![Employee Performance Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Employee%20Performance%20Analysis.png)
 
----
 
 # 📂 Project Files
 
@@ -197,6 +183,5 @@ MBA – Finance
 
 [⬇️ Download Tableau Workbook](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Northwind%20Traders%20Analysis%20Dashboard.twb)
 
----
 
-⭐ **Thank you for exploring the Northwind Traders Analysis Dashboard!**
+ **Thank you for exploring the Northwind Traders Analysis Dashboard!**
