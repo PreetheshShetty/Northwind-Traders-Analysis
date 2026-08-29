@@ -175,7 +175,7 @@ The analysis helps to:
 
 ## 4. Product Analysis Dashboard
 
-![Customer Analysis Dashboard](Screenshots/dashboard-4.png)
+![Customer Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Product%20Analysis.png)
 
 ---
 
