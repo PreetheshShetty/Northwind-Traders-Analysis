@@ -122,7 +122,7 @@ The Orders dataset contains information related to customer orders and order-lev
 
 ### File
 
-[northwind_orders.csv](Dataset/northwind_orders.csv)
+[northwind_orders.csv](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/northwind_orders%20-%20northwind_orders.csv)
 
 ---
 
