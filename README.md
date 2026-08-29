@@ -163,7 +163,7 @@ The analysis helps to:
 
 ## 2. Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](Screenshots/dashboard-2.png)
+![Sales Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Customer%20Analysis.png)
 
 ---
 
