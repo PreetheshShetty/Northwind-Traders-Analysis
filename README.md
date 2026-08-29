@@ -189,7 +189,7 @@ The analysis helps to:
 
 ## 📊 Tableau Workbook
 
-[⬇️ Download Tableau Workbook](Tableau/Northwind-Traders-Analysis-Dashboard.twb)
+[⬇️ Download Tableau Workbook](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Northwind%20Traders%20Analysis%20Dashboard.twb)
 
 ---
 
