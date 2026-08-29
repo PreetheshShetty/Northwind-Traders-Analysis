@@ -161,19 +161,19 @@ The analysis helps to:
 
 ---
 
-## 2. Sales Analysis Dashboard
+## 2. Customer Analysis Dashboard
 
 ![Sales Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Customer%20Analysis.png)
 
 ---
 
-## 3. Product Analysis Dashboard
+## 3. Sales Analysis Dashboard
 
-![Product Analysis Dashboard](Screenshots/dashboard-3.png)
+![Product Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Sales%20Analysis.png)
 
 ---
 
-## 4. Customer Analysis Dashboard
+## 4. Product Analysis Dashboard
 
 ![Customer Analysis Dashboard](Screenshots/dashboard-4.png)
 
