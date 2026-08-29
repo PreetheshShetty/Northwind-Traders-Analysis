@@ -16,7 +16,6 @@ The Tableau project contains **5 interactive dashboards**:
 
 The objective of this project is to transform raw business data into meaningful visual insights that can support data-driven decision-making.
 
----
 
 ## 🎯 Project Objectives
 
@@ -28,7 +27,6 @@ The objective of this project is to transform raw business data into meaningful 
 * Identify trends and patterns in business data.
 * Present business insights through interactive Tableau dashboards.
 
----
 
 # 📊 Dashboard Analysis
 
@@ -153,6 +151,14 @@ The analysis helps to:
 
 ---
 
+# 👨‍💻 Author
+
+**Preethesh Shetty**
+
+MBA – Finance
+
+---
+
 # 🖼️ Dashboard Screenshots
 
 ## 1. KPIs Dashboard
@@ -198,7 +204,6 @@ The analysis helps to:
 **Preethesh Shetty**
 
 MBA – Finance
-Business Analytics
 
 ---
 
