@@ -181,7 +181,7 @@ The analysis helps to:
 
 ## 5. Employee Performance Analysis Dashboard
 
-![Employee Performance Analysis Dashboard](Screenshots/dashboard-5.png)
+![Employee Performance Analysis Dashboard](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/Employee%20Performance%20Analysis.png)
 
 ---
 
