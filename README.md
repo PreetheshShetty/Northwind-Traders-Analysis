@@ -199,12 +199,4 @@ MBA – Finance
 
 ---
 
-# 👨‍💻 Author
-
-**Preethesh Shetty**
-
-MBA – Finance
-
----
-
 ⭐ **Thank you for exploring the Northwind Traders Analysis Dashboard!**
