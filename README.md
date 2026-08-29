@@ -132,7 +132,7 @@ The Order Details dataset contains detailed information about the individual pro
 
 ### File
 
-[northwind_order_details.csv](Dataset/northwind_order_details.csv)
+[northwind_order_details.csv](https://github.com/PreetheshShetty/Northwind-Traders-Analysis/blob/main/northwind_order_details%20-%20northwind_order_details.csv)
 
 
 ---
